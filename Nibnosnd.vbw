@@ -1,0 +1,5 @@
+SnakeFrm = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+SnakeEngine = 0, 0, 0, 0, C
+Player_Control = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Game_Custom = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
